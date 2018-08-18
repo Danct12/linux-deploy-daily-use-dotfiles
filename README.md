@@ -10,3 +10,6 @@ https://github.com/Danct12/linux-deploy-in-daily-use
 
 ![alt text](Screenshots/look1.png "Busy Workspace")
 ![alt text](Screenshots/look2.png "Empty Desktop")
+
+Since Android battery, brightness check doesn't work out of the box, I created a fork of Polybar to handle this:
+https://github.com/Danct12/polybar-android-chroot
